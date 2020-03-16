@@ -56,7 +56,7 @@ public class fenceplan {
 	}
 }
 
-class FastReader {
+ class FastReader {
 	BufferedReader br;
 	StringTokenizer st;
 
@@ -137,3 +137,4 @@ class FastReader {
 	}
 	
 }
+
